@@ -2,4 +2,4 @@
 ---
 [**탈모봇 공식 서버**](https://discord.gg/bAWqHVk) / [**한국 개발자 연합 서버**](https://discord.gg/PGV3tKV)
 ---
-#### a
+### [J-Hoplin](https://github.com/J-hoplin1)
